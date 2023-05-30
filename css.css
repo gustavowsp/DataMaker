@@ -1,0 +1,39 @@
+.anuncio{
+    width: 100%;
+    margin: auto;
+    background-color: rgba(255, 255, 255, .4);
+    padding: 5px ;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.AnuncioImg{
+    margin: auto;
+    width: 60%; 
+}
+.AnuncioImg img {
+    width: 80%;
+}
+
+.content p{
+    margin: 0;
+    padding: 0px;
+    font-size: 0.9em;
+}
+.tags h6{
+    display: inline;
+}
+.tags span{
+    font-size: 0.65em;
+    font-weight: bold;
+    background-color: aquamarine;
+    padding: 3px 6px;
+    border-radius: 6px;
+}
+
+.infovendas{
+    font-size: 0.7em;
+    font-weight: bold;
+}
+.infovendas table{
+    width: 100%;
+}
